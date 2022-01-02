@@ -282,7 +282,7 @@ h1{
     }
     .user-profile{
     display:grid;
-    grid-template-columns:15% 85%;
+    grid-template-columns:20% 80%;
 }
 .user-profile{
     line-height:1.8;
