@@ -280,4 +280,11 @@ h1{
         padding-top:2em;
         padding-bottom:3em;
     }
+    .user-profile{
+    display:grid;
+    grid-template-columns:15% 85%;
+}
+.user-profile{
+    line-height:1.8;
+}
 }
